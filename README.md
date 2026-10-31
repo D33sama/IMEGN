@@ -16,4 +16,4 @@ PDBbind v2020: http://www.pdbbind.org.cn/download.php
 2013 and 2016 core sets: http://www.pdbbind.org.cn/casf.php
 
 Before using the code, please use preprocess_3d.py and update_pocket_geometry.py to obtain and update the target geometric features.
-The details of our software have been archived at https://zenodo.org/records/23494510
+The details of our software have been archived at (https://zenodo.org/records/23789679)
